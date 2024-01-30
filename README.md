@@ -53,19 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naira-kc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###### Hi there 👋
-
-<!--
-**naira-kc/naira-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some little projects.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate with people with experience.
+- 🤔 I’m looking for help with my codes.
+- 💬 Ask me about whatever you need.
+- 📫 How to reach me: linkedin or IG.
+- ⚡ Fun fact: I like mangas and animes :D.
